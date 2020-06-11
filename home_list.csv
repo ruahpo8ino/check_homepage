@@ -1,0 +1,7 @@
+name,url,latest,result,af
+네이버,http://www.naver.com,2020-06-12/00:19,200,False
+공군,http://rokaf.airforce.mil.kr/airforce/index.do,2020-06-12/00:19,200,True
+군수사령부,http://www.aflc.mil.kr:8081/user/indexMain.action?siteId=lcint,2020-06-12/00:19,200,True
+웹툰,https://comic.naver.com/index.nhn,2020-06-12/00:19,200,False
+유튜브,https://www.youtube.com/,2020-06-12/00:19,200,False
+국방메일,http://mail.mnd.go.kr/,2020-06-12/00:19,Timeout,True
